@@ -14,6 +14,7 @@ public class Grid_BrowserStack1 {
 		d.setCapability("browser","Chrome");
 		d.setCapability("browser_version","14");
 		d.setCapability("browserstack.debug" ,true);*/
+		System.out.println("Abcd");
 	
 		d.setCapability("platform","MAC");
 		d.setCapability("browserName","safari");
